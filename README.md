@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DishaWalyat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0846-hand-of-straights](https://github.com/DishaWalyat/Leetcode/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/DishaWalyat/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1046-last-stone-weight](https://github.com/DishaWalyat/Leetcode/tree/master/1046-last-stone-weight) |
 | [1672-richest-customer-wealth](https://github.com/DishaWalyat/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/DishaWalyat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0846-hand-of-straights](https://github.com/DishaWalyat/Leetcode/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/DishaWalyat/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DishaWalyat/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0846-hand-of-straights](https://github.com/DishaWalyat/Leetcode/tree/master/0846-hand-of-straights) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Bucket Sort
 |  |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## Greedy
+|  |
+| ------- |
+| [0846-hand-of-straights](https://github.com/DishaWalyat/Leetcode/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->
