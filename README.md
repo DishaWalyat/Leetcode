@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DishaWalyat/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DishaWalyat/Leetcode/tree/master/0055-jump-game) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DishaWalyat/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
