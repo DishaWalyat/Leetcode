@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DishaWalyat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/DishaWalyat/Leetcode/tree/master/0455-assign-cookies) |
+| [0566-reshape-the-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0846-hand-of-straights](https://github.com/DishaWalyat/Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/DishaWalyat/Leetcode/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/DishaWalyat/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DishaWalyat/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DishaWalyat/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0566-reshape-the-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/DishaWalyat/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/DishaWalyat/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/DishaWalyat/Leetcode/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DishaWalyat/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
