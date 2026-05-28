@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/DishaWalyat/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/DishaWalyat/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/DishaWalyat/Leetcode/tree/master/1046-last-stone-weight) |
 | [1572-matrix-diagonal-sum](https://github.com/DishaWalyat/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/DishaWalyat/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DishaWalyat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/DishaWalyat/Leetcode/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/DishaWalyat/Leetcode/tree/master/0846-hand-of-straights) |
+| [0977-squares-of-a-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Bucket Sort
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DishaWalyat/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DishaWalyat/Leetcode/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/DishaWalyat/Leetcode/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
