@@ -1,47 +1,68 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
+
+    // merge 2 sorted lists
+    ListNode* merge(ListNode* left, ListNode* right){
+
+        ListNode dummy(0);
+
+        ListNode* tail = &dummy;
+
+        while(left != NULL && right != NULL){
+
+            if(left->val < right->val){
+
+                tail->next = left;
+                left = left->next;
+            }
+            else{
+
+                tail->next = right;
+                right = right->next;
+            }
+
+            tail = tail->next;
+        }
+
+        if(left != NULL){
+            tail->next = left;
+        }
+
+        if(right != NULL){
+            tail->next = right;
+        }
+
+        return dummy.next;
+    }
+
     ListNode* sortList(ListNode* head) {
-        // edge case
+
+        // base case
         if(head == NULL || head->next == NULL){
             return head;
-        } 
-
-        vector<int> ans;
-        ListNode* temp= head;
-        while( temp != NULL){
-
-            ans.push_back(temp->val);
-            temp=temp->next;
-
         }
 
-        sort(ans.begin(), ans.end());
+        // find middle
+        ListNode* slow = head;
+        ListNode* fast = head->next;
 
-        // put sorted values back
-        temp = head;
+        while(fast != NULL && fast->next != NULL){
 
-        int i = 0;
-
-        while(temp != NULL){
-
-            temp->val = ans[i];
-
-            i++;
-
-            temp = temp->next;
+            slow = slow->next;
+            fast = fast->next->next;
         }
 
-        return head;
-        
+        // split list
+        ListNode* mid = slow->next;
+
+        slow->next = NULL;
+
+        // recursive sort
+        ListNode* left = sortList(head);
+
+        ListNode* right = sortList(mid);
+
+        // merge sorted halves
+        return merge(left, right);
     }
 };
