@@ -9,26 +9,22 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        // Boundary check
+        if (headA == NULL || headB == NULL) return NULL;
 
-       ListNode* a = headA;
+        ListNode* ptrA = headA;
+        ListNode* ptrB = headB;
 
-        while(a != NULL){
-
-            ListNode* b = headB;
-
-            while(b != NULL){
-
-                if(a == b){
-                    return a;
-                }
-
-                b = b->next;
-            }
-
-            a = a->next;
+        // Loop continues until the two pointers meet
+        while (ptrA != ptrB) {
+            // Move ptrA to headB if it reaches the end, otherwise move to next node
+            ptrA = (ptrA == NULL) ? headB : ptrA->next;
+            
+            // Move ptrB to headA if it reaches the end, otherwise move to next node
+            ptrB = (ptrB == NULL) ? headA : ptrB->next;
         }
 
-        return NULL;
-        
+        // Either they met at the intersection node, or both are NULL (no intersection)
+        return ptrA;
     }
 };
