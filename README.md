@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DishaWalyat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/DishaWalyat/Leetcode/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/DishaWalyat/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Divide and Conquer
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DishaWalyat/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DishaWalyat/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DishaWalyat/Leetcode/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/DishaWalyat/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/DishaWalyat/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DishaWalyat/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DishaWalyat/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DishaWalyat/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0875-koko-eating-bananas](https://github.com/DishaWalyat/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DishaWalyat/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DishaWalyat/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -352,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -363,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/DishaWalyat/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Hash Function
 |  |
