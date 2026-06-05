@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DishaWalyat/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/DishaWalyat/Leetcode/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/DishaWalyat/Leetcode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/DishaWalyat/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0229-majority-element-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/DishaWalyat/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/DishaWalyat/Leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/DishaWalyat/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/DishaWalyat/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/DishaWalyat/Leetcode/tree/master/0846-hand-of-straights) |
