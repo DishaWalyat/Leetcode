@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DishaWalyat/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/DishaWalyat/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0542-01-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/DishaWalyat/Leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/DishaWalyat/Leetcode/tree/master/0832-flipping-an-image) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DishaWalyat/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/DishaWalyat/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/DishaWalyat/Leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/DishaWalyat/Leetcode/tree/master/0832-flipping-an-image) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/DishaWalyat/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/DishaWalyat/Leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DishaWalyat/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/DishaWalyat/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/DishaWalyat/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/DishaWalyat/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/DishaWalyat/Leetcode/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0542-01-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/DishaWalyat/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/DishaWalyat/Leetcode/tree/master/0733-flood-fill) |
