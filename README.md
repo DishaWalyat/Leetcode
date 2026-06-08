@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DishaWalyat/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2104-sum-of-subarray-ranges](https://github.com/DishaWalyat/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/DishaWalyat/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DishaWalyat/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/DishaWalyat/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/DishaWalyat/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0867-transpose-matrix) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DishaWalyat/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/DishaWalyat/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Two Pointers
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/DishaWalyat/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DishaWalyat/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/DishaWalyat/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
