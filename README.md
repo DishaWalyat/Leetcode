@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/DishaWalyat/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/DishaWalyat/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3689-maximum-total-subarray-value-i](https://github.com/DishaWalyat/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DishaWalyat/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/DishaWalyat/Leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/DishaWalyat/Leetcode/tree/master/0860-lemonade-change) |
+| [3689-maximum-total-subarray-value-i](https://github.com/DishaWalyat/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
 | ------- |
