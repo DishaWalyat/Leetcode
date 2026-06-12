@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/DishaWalyat/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/DishaWalyat/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/DishaWalyat/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Heap (Priority Queue)
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DishaWalyat/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DishaWalyat/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Design
 |  |
 | ------- |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/DishaWalyat/Leetcode/tree/master/1952-three-divisors) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DishaWalyat/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/DishaWalyat/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/DishaWalyat/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Stack
 |  |
 | ------- |
@@ -417,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/DishaWalyat/Leetcode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/DishaWalyat/Leetcode/tree/master/0832-flipping-an-image) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -449,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DishaWalyat/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DishaWalyat/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
