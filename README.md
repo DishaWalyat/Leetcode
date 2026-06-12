@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/DishaWalyat/Leetcode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/DishaWalyat/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/DishaWalyat/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/DishaWalyat/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DishaWalyat/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/DishaWalyat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DishaWalyat/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/DishaWalyat/Leetcode/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/DishaWalyat/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/DishaWalyat/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/DishaWalyat/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1631-path-with-minimum-effort](https://github.com/DishaWalyat/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/DishaWalyat/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Simulation
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/DishaWalyat/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0875-koko-eating-bananas](https://github.com/DishaWalyat/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DishaWalyat/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1631-path-with-minimum-effort](https://github.com/DishaWalyat/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -452,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/DishaWalyat/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/DishaWalyat/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/DishaWalyat/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DishaWalyat/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DishaWalyat/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -480,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/DishaWalyat/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/DishaWalyat/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DishaWalyat/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Function
 |  |
@@ -515,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/DishaWalyat/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/DishaWalyat/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/DishaWalyat/Leetcode/tree/master/1020-number-of-enclaves) |
+| [1631-path-with-minimum-effort](https://github.com/DishaWalyat/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DishaWalyat/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
