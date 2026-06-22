@@ -9,35 +9,41 @@
  * };
  */
 class Solution {
+struct compare {
+    bool operator()(ListNode* a, ListNode* b) {
+        return a->val > b->val; // Min-Heap custom node value comparison
+    }
+};
+
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        // Vector to store all values from every node
-        vector<int> allValues;
+        // Custom Min-Heap jo Linked List ke Nodes ke addresses store karega
+        priority_queue<ListNode*, vector<ListNode*>, compare> minHeap;
 
-        // Loop through each linked list
-        for (auto list : lists) {
-            // Traverse the current list and store its values
-            while (list != NULL) {
-                allValues.push_back(list->val);
-                list = list->next;
+        // Step 1: Saari non-empty lists ke head nodes ko heap me push karo
+        for (int i = 0; i < lists.size(); i++) {
+            if (lists[i] != NULL) {
+                minHeap.push(lists[i]);
             }
         }
 
-        // Sort all collected values
-        sort(allValues.begin(), allValues.end());
+        ListNode* dummy = new ListNode(-1); // Dummy node to avoid boundary checks
+        ListNode* tail = dummy;
 
-        // Create a dummy head for the final result list
-        ListNode* dummy = new ListNode(0);
-        ListNode* curr = dummy;
+        // Step 2: Ek-ek karke min node nikalo aur uske next ko push karo
+        while (!minHeap.empty()) {
+            ListNode* topNode = minHeap.top();
+            minHeap.pop();
 
-        // Create new linked list nodes from sorted values
-        for (int val : allValues) {
-            curr->next = new ListNode(val);
-            curr = curr->next;
+            tail->next = topNode; // Nayi list me joda
+            tail = tail->next;
+
+            // Agar us list me aage aur nodes bache hain, toh next node ko queue me daalo
+            if (topNode->next != NULL) {
+                minHeap.push(topNode->next);
+            }
         }
 
-        // Return head of the merged linked list
         return dummy->next;
-        
     }
 };
