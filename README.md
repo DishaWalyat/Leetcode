@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/DishaWalyat/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/DishaWalyat/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DishaWalyat/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DishaWalyat/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DishaWalyat/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2104-sum-of-subarray-ranges](https://github.com/DishaWalyat/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DishaWalyat/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/DishaWalyat/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1189-maximum-number-of-balloons](https://github.com/DishaWalyat/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DishaWalyat/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DishaWalyat/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2833-furthest-point-from-origin](https://github.com/DishaWalyat/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Tree
