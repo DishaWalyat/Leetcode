@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/DishaWalyat/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DishaWalyat/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/DishaWalyat/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/DishaWalyat/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DishaWalyat/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/DishaWalyat/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/DishaWalyat/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DishaWalyat/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/DishaWalyat/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/DishaWalyat/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/DishaWalyat/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/DishaWalyat/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/DishaWalyat/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DishaWalyat/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/DishaWalyat/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/DishaWalyat/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/DishaWalyat/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DishaWalyat/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DishaWalyat/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
