@@ -1,48 +1,40 @@
 class Solution {
 public:
-    int nearestExit(vector<vector<char>>& maze, vector<int>& e) {
-        queue<pair<int,int>> q;
-        q.push({e[0],e[1]});
-		
-		//current moves
-        int moves=1;
-        int rows=maze.size();
-        int cols=maze[0].size();
+    vector<vector<int>> directions{{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+    int nearestExit(vector<vector<char>>& maze, vector<int>& entrance) {
+        int m = maze.size();
+        int n = maze[0].size();
         
-		//to move in all directions
-        vector<vector<int>> offsets={{0,1},{1,0},{0,-1},{-1,0}};
-		
-        //mark the entrance  as visited
-        maze[e[0]][e[1]]='+';
-        while(!q.empty())
-        {
-            int l=q.size();
-			//for every node in the queue visit all of it's adjacent nodes which are not visited yet
-            for(int k=0;k<l;k++)
-            {
-                auto [i,j]=q.front();
-                q.pop();
-                
-				//try all 4 directions from the current cell
-                for(int l=0;l<4;l++)
-                {
-                    int x=i+offsets[l][0];
-                    int y=j+offsets[l][1];
-					//a invalid move
-                    if(x<0 || y<0 || x>=rows || y>=cols || maze[x][y]=='+')
-                        continue;
-					//if we have reached the exit then current moves are the min moves to reach the exit
-                    if(x==0 || y==0 || x==rows-1 || y==cols-1)
-                        return moves;
-					//block the cell as we have visited
-                    maze[x][y]='+';
-                    q.push({x,y});
-                }
-            }
-			//increment the moves
-            moves++;
+        queue<pair<int, int>> que;
+        que.push({entrance[0], entrance[1]});
+        maze[entrance[0]][entrance[1]] = '+'; //marking it visited
+        int steps = 0;
+        
+        while(!que.empty()) {
+            int size = que.size();
             
+            while(size--) {
+                pair<int, int> temp = que.front();
+                que.pop();
+              //temp.first != entrance[0] || temp.second != entrance[1])  is equal to make pair only  
+                if(temp != make_pair(entrance[0], entrance[1]) && 
+                   (temp.first == 0 || temp.first == m-1 || temp.second == 0 || temp.second == n-1))
+                    return steps;//exit par phoch gye
+                
+                for(auto &dir : directions) {
+                    int i = temp.first  + dir[0];
+                    int j = temp.second + dir[1];
+
+                    if(i >= 0 && i < m && j >= 0 && j < n && maze[i][j] != '+') {
+                        que.push({i, j});
+                        maze[i][j] = '+'; //marking it as visited
+                    }
+                }
+                
+            }
+            steps++;
         }
+        
         return -1;
     }
 };
