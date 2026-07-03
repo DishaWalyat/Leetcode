@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/DishaWalyat/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DishaWalyat/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DishaWalyat/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/DishaWalyat/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/DishaWalyat/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/DishaWalyat/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/DishaWalyat/Leetcode/tree/master/0886-possible-bipartition) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/DishaWalyat/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DishaWalyat/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DishaWalyat/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/DishaWalyat/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/DishaWalyat/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/DishaWalyat/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/DishaWalyat/Leetcode/tree/master/0886-possible-bipartition) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/DishaWalyat/Leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/DishaWalyat/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DishaWalyat/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/DishaWalyat/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/DishaWalyat/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/DishaWalyat/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/DishaWalyat/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
@@ -644,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DishaWalyat/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DishaWalyat/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/DishaWalyat/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/DishaWalyat/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
