@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/DishaWalyat/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/DishaWalyat/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [0990-satisfiability-of-equality-equations](https://github.com/DishaWalyat/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/DishaWalyat/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DishaWalyat/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/DishaWalyat/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/DishaWalyat/Leetcode/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/DishaWalyat/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0678-valid-parenthesis-string](https://github.com/DishaWalyat/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0990-satisfiability-of-equality-equations](https://github.com/DishaWalyat/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1189-maximum-number-of-balloons](https://github.com/DishaWalyat/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DishaWalyat/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DishaWalyat/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/DishaWalyat/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/DishaWalyat/Leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DishaWalyat/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/DishaWalyat/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/DishaWalyat/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/DishaWalyat/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DishaWalyat/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/DishaWalyat/Leetcode/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0886-possible-bipartition](https://github.com/DishaWalyat/Leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DishaWalyat/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0990-satisfiability-of-equality-equations](https://github.com/DishaWalyat/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DishaWalyat/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DishaWalyat/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DishaWalyat/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
