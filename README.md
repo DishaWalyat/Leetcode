@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DishaWalyat/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/DishaWalyat/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DishaWalyat/Leetcode/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/DishaWalyat/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DishaWalyat/Leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DishaWalyat/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/DishaWalyat/Leetcode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/DishaWalyat/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/DishaWalyat/Leetcode/tree/master/0678-valid-parenthesis-string) |
