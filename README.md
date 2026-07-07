@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/DishaWalyat/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/DishaWalyat/Leetcode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/DishaWalyat/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/DishaWalyat/Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1288-remove-covered-intervals](https://github.com/DishaWalyat/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/DishaWalyat/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/DishaWalyat/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/DishaWalyat/Leetcode/tree/master/0846-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/DishaWalyat/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/DishaWalyat/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/DishaWalyat/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DishaWalyat/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/DishaWalyat/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0875-koko-eating-bananas](https://github.com/DishaWalyat/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DishaWalyat/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/DishaWalyat/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1631-path-with-minimum-effort](https://github.com/DishaWalyat/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/DishaWalyat/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0907-sum-of-subarray-minimums](https://github.com/DishaWalyat/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/DishaWalyat/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/DishaWalyat/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/DishaWalyat/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/DishaWalyat/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
