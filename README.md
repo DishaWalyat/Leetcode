@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DishaWalyat/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DishaWalyat/Leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/DishaWalyat/Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/DishaWalyat/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/DishaWalyat/Leetcode/tree/master/0509-fibonacci-number) |
 | [1952-three-divisors](https://github.com/DishaWalyat/Leetcode/tree/master/1952-three-divisors) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DishaWalyat/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/DishaWalyat/Leetcode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/DishaWalyat/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/DishaWalyat/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/DishaWalyat/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/DishaWalyat/Leetcode/tree/master/0279-perfect-squares) |
 | [0433-minimum-genetic-mutation](https://github.com/DishaWalyat/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/DishaWalyat/Leetcode/tree/master/0547-number-of-provinces) |
