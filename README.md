@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/DishaWalyat/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/DishaWalyat/Leetcode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/DishaWalyat/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/DishaWalyat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/DishaWalyat/Leetcode/tree/master/0455-assign-cookies) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/DishaWalyat/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0450-delete-node-in-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/DishaWalyat/Leetcode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/DishaWalyat/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/DishaWalyat/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/DishaWalyat/Leetcode/tree/master/0678-valid-parenthesis-string) |
