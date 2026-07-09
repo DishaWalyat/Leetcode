@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/DishaWalyat/Leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/DishaWalyat/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/DishaWalyat/Leetcode/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DishaWalyat/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/DishaWalyat/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/DishaWalyat/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/DishaWalyat/Leetcode/tree/master/0200-number-of-islands) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DishaWalyat/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DishaWalyat/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DishaWalyat/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/DishaWalyat/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DishaWalyat/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/DishaWalyat/Leetcode/tree/master/0455-assign-cookies) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/DishaWalyat/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/DishaWalyat/Leetcode/tree/master/0300-longest-increasing-subsequence) |
