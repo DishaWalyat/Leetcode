@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/DishaWalyat/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/DishaWalyat/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/DishaWalyat/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/DishaWalyat/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/DishaWalyat/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/DishaWalyat/Leetcode/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/DishaWalyat/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/DishaWalyat/Leetcode/tree/master/0733-flood-fill) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/DishaWalyat/Leetcode/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/DishaWalyat/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/DishaWalyat/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0867-transpose-matrix) |
