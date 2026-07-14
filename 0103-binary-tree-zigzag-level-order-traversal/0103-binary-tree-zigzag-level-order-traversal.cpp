@@ -11,44 +11,60 @@
  */
 class Solution {
 public:
-    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        //this is an example of BFS + Queue
-        queue<TreeNode*> q;
-        vector<vector<int>>ans;
-        if ( root == NULL) return ans;
-        q.push(root);
-        bool leftToRight = true;
+   vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
 
-        while(!q.empty()){
-            int size= q.size();
+    // Stores the final zigzag traversal
+    vector<vector<int>> ans;
 
-            vector<int> level (size);
-
-            for(int i=0;i<size;i++){
-                TreeNode* node = q.front();
-                if( node -> left != NULL) q.push(node->left);
-                if (node-> right != NULL) q.push(node->right);
-
-                q.pop();
-
-                int index;
-
-                if(leftToRight)
-                    index = i;
-                else
-                    index = size - 1 - i;
-
-                level[index] = node->val;
-            }
-            ans.push_back(level);
-
-            leftToRight = !leftToRight;
-
-
-        }
-
+    // If tree is empty, return empty answer
+    if(root == NULL)
         return ans;
 
-        
+    // Queue for normal level order traversal (BFS)
+    queue<TreeNode*> q;
+    q.push(root);
+
+    // true  -> Left to Right
+    // false -> Right to Left
+    bool leftToRight = true;
+
+    // Process level by level
+    while(!q.empty()){
+
+        // Number of nodes in current level
+        int size = q.size();
+
+        // Stores current level
+        vector<int> level;
+
+        // Traverse all nodes of current level
+        while(size--){
+
+            TreeNode* node = q.front();
+            q.pop();
+
+            // Store current node
+            level.push_back(node->val);
+
+            // Push children for next level
+            if(node->left)
+                q.push(node->left);
+
+            if(node->right)
+                q.push(node->right);
+        }
+
+        // Reverse only if direction is Right to Left
+        if(!leftToRight)
+            reverse(level.begin(), level.end());
+
+        // Store this level
+        ans.push_back(level);
+
+        // Change direction for next level
+        leftToRight = !leftToRight;
     }
+
+    return ans;
+}
 };
