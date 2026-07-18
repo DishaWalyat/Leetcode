@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0834-sum-of-distances-in-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DishaWalyat/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DishaWalyat/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0814-binary-tree-pruning](https://github.com/DishaWalyat/Leetcode/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DishaWalyat/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/DishaWalyat/Leetcode/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DishaWalyat/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0965-univalued-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/DishaWalyat/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/DishaWalyat/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/DishaWalyat/Leetcode/tree/master/0886-possible-bipartition) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/DishaWalyat/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/DishaWalyat/Leetcode/tree/master/1020-number-of-enclaves) |
