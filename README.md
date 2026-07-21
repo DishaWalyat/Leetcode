@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/DishaWalyat/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/DishaWalyat/Leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/DishaWalyat/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/DishaWalyat/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/DishaWalyat/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DishaWalyat/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -506,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DishaWalyat/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/DishaWalyat/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DishaWalyat/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/DishaWalyat/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DishaWalyat/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DishaWalyat/Leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0264-ugly-number-ii) |
