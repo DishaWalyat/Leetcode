@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/DishaWalyat/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/DishaWalyat/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0433-minimum-genetic-mutation](https://github.com/DishaWalyat/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/DishaWalyat/Leetcode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/DishaWalyat/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/DishaWalyat/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/DishaWalyat/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/DishaWalyat/Leetcode/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/DishaWalyat/Leetcode/tree/master/0433-minimum-genetic-mutation) |
