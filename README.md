@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/DishaWalyat/Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1260-shift-2d-grid](https://github.com/DishaWalyat/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/DishaWalyat/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/DishaWalyat/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1329-sort-the-matrix-diagonally](https://github.com/DishaWalyat/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/DishaWalyat/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DishaWalyat/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/DishaWalyat/Leetcode/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/DishaWalyat/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/DishaWalyat/Leetcode/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/DishaWalyat/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1952-three-divisors](https://github.com/DishaWalyat/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DishaWalyat/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
