@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DishaWalyat/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/DishaWalyat/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/DishaWalyat/Leetcode/tree/master/0283-move-zeroes) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/DishaWalyat/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/DishaWalyat/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/DishaWalyat/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/DishaWalyat/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/DishaWalyat/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0930-binary-subarrays-with-sum](https://github.com/DishaWalyat/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DishaWalyat/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
