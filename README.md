@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DishaWalyat/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/DishaWalyat/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/DishaWalyat/Leetcode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/DishaWalyat/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0454-4sum-ii) |
 | [0460-lfu-cache](https://github.com/DishaWalyat/Leetcode/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/DishaWalyat/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/DishaWalyat/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DishaWalyat/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/DishaWalyat/Leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DishaWalyat/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/DishaWalyat/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DishaWalyat/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/DishaWalyat/Leetcode/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/DishaWalyat/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
