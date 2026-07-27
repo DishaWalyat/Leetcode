@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/DishaWalyat/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/DishaWalyat/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/DishaWalyat/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DishaWalyat/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/DishaWalyat/Leetcode/tree/master/0148-sort-list) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DishaWalyat/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DishaWalyat/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DishaWalyat/Leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/DishaWalyat/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/DishaWalyat/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/DishaWalyat/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/DishaWalyat/Leetcode/tree/master/0290-word-pattern) |
