@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DishaWalyat/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2007-find-original-array-from-doubled-array](https://github.com/DishaWalyat/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DishaWalyat/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/DishaWalyat/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bucket Sort
 |  |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DishaWalyat/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DishaWalyat/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2833-furthest-point-from-origin](https://github.com/DishaWalyat/Leetcode/tree/master/2833-furthest-point-from-origin) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DishaWalyat/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Tree
 |  |
 | ------- |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/DishaWalyat/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/DishaWalyat/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Shortest Path
 |  |
 | ------- |
