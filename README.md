@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/DishaWalyat/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/DishaWalyat/Leetcode/tree/master/0990-satisfiability-of-equality-equations) |
+| [0992-subarrays-with-k-different-integers](https://github.com/DishaWalyat/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/DishaWalyat/Leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/DishaWalyat/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DishaWalyat/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DishaWalyat/Leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DishaWalyat/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0992-subarrays-with-k-different-integers](https://github.com/DishaWalyat/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/DishaWalyat/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1189-maximum-number-of-balloons](https://github.com/DishaWalyat/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DishaWalyat/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/DishaWalyat/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DishaWalyat/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/DishaWalyat/Leetcode/tree/master/0621-task-scheduler) |
+| [0992-subarrays-with-k-different-integers](https://github.com/DishaWalyat/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/DishaWalyat/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DishaWalyat/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2833-furthest-point-from-origin](https://github.com/DishaWalyat/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DishaWalyat/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/DishaWalyat/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/DishaWalyat/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/DishaWalyat/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/DishaWalyat/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/DishaWalyat/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DishaWalyat/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
