@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/DishaWalyat/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DishaWalyat/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DishaWalyat/Leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1763-longest-nice-substring](https://github.com/DishaWalyat/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DishaWalyat/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2007-find-original-array-from-doubled-array](https://github.com/DishaWalyat/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DishaWalyat/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/DishaWalyat/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DishaWalyat/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/DishaWalyat/Leetcode/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DishaWalyat/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/DishaWalyat/Leetcode/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/DishaWalyat/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DishaWalyat/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1763-longest-nice-substring](https://github.com/DishaWalyat/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1768-merge-strings-alternately](https://github.com/DishaWalyat/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DishaWalyat/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DishaWalyat/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DishaWalyat/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DishaWalyat/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DishaWalyat/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1763-longest-nice-substring](https://github.com/DishaWalyat/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -785,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DishaWalyat/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/DishaWalyat/Leetcode/tree/master/0832-flipping-an-image) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/DishaWalyat/Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1763-longest-nice-substring](https://github.com/DishaWalyat/Leetcode/tree/master/1763-longest-nice-substring) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
