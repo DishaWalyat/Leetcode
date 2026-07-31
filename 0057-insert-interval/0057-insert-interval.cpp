@@ -1,25 +1,31 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        intervals.push_back(newInterval);
-        sort(intervals.begin(), intervals.end());
 
-        vector<vector<int>>merged;
-        vector<int>prev;
+        vector<vector<int>> merged;
 
-        prev=intervals[0];
-        
-        for(int i=1; i<intervals.size(); i++){
-            if(intervals[i][0] <= prev[1]) {
-                // Merge overlapping intervals
-                prev[1] = max(prev[1], intervals[i][1]);
-            } else {
-                merged.push_back(prev);
-                prev = intervals[i];
+        for (int i = 0; i < intervals.size(); i++) {
+
+            // Current interval is completely before newInterval
+            if (intervals[i][1] < newInterval[0]) {
+                merged.push_back(intervals[i]);
+            }
+
+            // Current interval is completely after newInterval
+            else if (intervals[i][0] > newInterval[1]) {
+                merged.push_back(newInterval);
+                newInterval = intervals[i];
+            }
+
+            // Overlapping intervals
+            else {
+                newInterval[0] = min(newInterval[0], intervals[i][0]);
+                newInterval[1] = max(newInterval[1], intervals[i][1]);
             }
         }
-        merged.push_back(prev);
+
+        merged.push_back(newInterval);
+
         return merged;
-        
     }
 };
