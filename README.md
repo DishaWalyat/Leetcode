@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/DishaWalyat/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/DishaWalyat/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/DishaWalyat/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/DishaWalyat/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/DishaWalyat/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/DishaWalyat/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/DishaWalyat/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/DishaWalyat/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DishaWalyat/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/DishaWalyat/Leetcode/tree/master/0877-stone-game) |
 | [0899-orderly-queue](https://github.com/DishaWalyat/Leetcode/tree/master/0899-orderly-queue) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DishaWalyat/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1952-three-divisors](https://github.com/DishaWalyat/Leetcode/tree/master/1952-three-divisors) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/DishaWalyat/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/DishaWalyat/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0834-sum-of-distances-in-tree) |
+| [0877-stone-game](https://github.com/DishaWalyat/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/DishaWalyat/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/DishaWalyat/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/DishaWalyat/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -1046,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/DishaWalyat/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/DishaWalyat/Leetcode/tree/master/0877-stone-game) |
 ## Ordered Set
 |  |
 | ------- |
