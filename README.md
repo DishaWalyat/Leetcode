@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/DishaWalyat/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DishaWalyat/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3452-sum-of-good-numbers](https://github.com/DishaWalyat/Leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/DishaWalyat/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
