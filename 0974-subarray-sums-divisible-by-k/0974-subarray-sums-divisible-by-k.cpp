@@ -3,17 +3,19 @@ public:
     int subarraysDivByK(vector<int>& nums, int k) {
 
         unordered_map<int,int> mp;
-
         mp[0] = 1;
 
-        int sum = 0;
+        int prefix = 0;
         int ans = 0;
 
-        for(int x : nums)
-        {
-            sum += x;
+        for(int x : nums) {
 
-            int rem = ((sum % k) + k) % k;
+            prefix += x;
+
+            int rem = prefix % k;
+
+            if(rem < 0)
+                rem += k;
 
             if(mp.count(rem))
                 ans += mp[rem];
