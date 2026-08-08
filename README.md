@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/DishaWalyat/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1089-duplicate-zeros](https://github.com/DishaWalyat/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1124-longest-well-performing-interval](https://github.com/DishaWalyat/Leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/DishaWalyat/Leetcode/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/DishaWalyat/Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DishaWalyat/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/DishaWalyat/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/DishaWalyat/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/DishaWalyat/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1124-longest-well-performing-interval](https://github.com/DishaWalyat/Leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1189-maximum-number-of-balloons](https://github.com/DishaWalyat/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DishaWalyat/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DishaWalyat/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/DishaWalyat/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DishaWalyat/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/DishaWalyat/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1124-longest-well-performing-interval](https://github.com/DishaWalyat/Leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DishaWalyat/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1314-matrix-block-sum](https://github.com/DishaWalyat/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/DishaWalyat/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/DishaWalyat/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/DishaWalyat/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DishaWalyat/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1124-longest-well-performing-interval](https://github.com/DishaWalyat/Leetcode/tree/master/1124-longest-well-performing-interval) |
 | [1544-make-the-string-great](https://github.com/DishaWalyat/Leetcode/tree/master/1544-make-the-string-great) |
 | [2104-sum-of-subarray-ranges](https://github.com/DishaWalyat/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Enumeration
@@ -983,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/DishaWalyat/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/DishaWalyat/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DishaWalyat/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1124-longest-well-performing-interval](https://github.com/DishaWalyat/Leetcode/tree/master/1124-longest-well-performing-interval) |
 | [2104-sum-of-subarray-ranges](https://github.com/DishaWalyat/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Queue
 |  |
