@@ -14,8 +14,8 @@ public:
             sum += x;
 
             if(mp.count(sum - k))
-                ans += mp[sum - k];
-
+                ans += mp[sum - k]; 
+            
             mp[sum]++;
         }
 
