@@ -7,8 +7,7 @@ public:
         int left = 0;
         int ans = 0;
 
-        for(int right = 0; right < fruits.size(); right++)
-        {
+        for(int right = 0; right < fruits.size(); right++){
             mp[fruits[right]]++;
 
             while(mp.size() > 2)
