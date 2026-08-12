@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/DishaWalyat/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1329-sort-the-matrix-diagonally](https://github.com/DishaWalyat/Leetcode/tree/master/1329-sort-the-matrix-diagonally) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/DishaWalyat/Leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DishaWalyat/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/DishaWalyat/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/DishaWalyat/Leetcode/tree/master/1406-stone-game-iii) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/DishaWalyat/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/DishaWalyat/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DishaWalyat/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DishaWalyat/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DishaWalyat/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DishaWalyat/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DishaWalyat/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
