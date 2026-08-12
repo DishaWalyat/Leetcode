@@ -1,20 +1,27 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int n = s.size();
-        int i = 0, res = 0;
-        vector<int> count(3, 0); 
 
-        for (int j = 0; j < n; j++) {
-            count[s[j] - 'a']++;
+        int left = 0;
+        int ans = 0;
 
-            while (count[0] > 0 && count[1] > 0 && count[2] > 0) {
-                res += (n - j);
-                count[s[i] - 'a']--;
-                i++;
+        unordered_map<char, int> mp;
+
+        for(int right = 0; right < s.size(); right++) {
+
+            mp[s[right]]++;
+
+            while(mp['a'] > 0 &&
+                  mp['b'] > 0 &&
+                  mp['c'] > 0) {
+
+                mp[s[left]]--;
+                left++;
             }
+
+            ans += left;
         }
 
-        return res;
+        return ans;
     }
 };
