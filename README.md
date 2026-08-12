@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/DishaWalyat/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DishaWalyat/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DishaWalyat/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DishaWalyat/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3452-sum-of-good-numbers](https://github.com/DishaWalyat/Leetcode/tree/master/3452-sum-of-good-numbers) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/DishaWalyat/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DishaWalyat/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DishaWalyat/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DishaWalyat/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DishaWalyat/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DishaWalyat/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DishaWalyat/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DishaWalyat/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1763-longest-nice-substring](https://github.com/DishaWalyat/Leetcode/tree/master/1763-longest-nice-substring) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DishaWalyat/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
