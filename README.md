@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/DishaWalyat/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DishaWalyat/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DishaWalyat/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DishaWalyat/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/DishaWalyat/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/DishaWalyat/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/DishaWalyat/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DishaWalyat/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DishaWalyat/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DishaWalyat/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2833-furthest-point-from-origin](https://github.com/DishaWalyat/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DishaWalyat/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1080,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/DishaWalyat/Leetcode/tree/master/0732-my-calendar-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DishaWalyat/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DishaWalyat/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Queue
@@ -1138,6 +1141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/DishaWalyat/Leetcode/tree/master/0732-my-calendar-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DishaWalyat/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Minimax
 |  |
 | ------- |
