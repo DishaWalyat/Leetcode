@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/DishaWalyat/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/DishaWalyat/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/DishaWalyat/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0909-snakes-and-ladders](https://github.com/DishaWalyat/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0930-binary-subarrays-with-sum](https://github.com/DishaWalyat/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/DishaWalyat/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/DishaWalyat/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/DishaWalyat/Leetcode/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/DishaWalyat/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/DishaWalyat/Leetcode/tree/master/0867-transpose-matrix) |
+| [0909-snakes-and-ladders](https://github.com/DishaWalyat/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/DishaWalyat/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/DishaWalyat/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/DishaWalyat/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -980,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/DishaWalyat/Leetcode/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0886-possible-bipartition](https://github.com/DishaWalyat/Leetcode/tree/master/0886-possible-bipartition) |
+| [0909-snakes-and-ladders](https://github.com/DishaWalyat/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
