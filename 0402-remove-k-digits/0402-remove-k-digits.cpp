@@ -1,24 +1,38 @@
 class Solution {
 public:
     string removeKdigits(string num, int k) {
-        string st;  // string as stack — cleaner
-        
-        for (char c : num) {
-            while (!st.empty() && k > 0 && st.back() > c) {
+
+        string st;
+
+        for(char c : num) {
+
+            while(!st.empty() && k > 0 && st.back() > c) {
                 st.pop_back();
                 k--;
             }
+
             st.push_back(c);
         }
 
-        // still have removals left — chop from end
-        if (k > 0)
-            st = st.substr(0, st.size() - k);
+        // If k is still remaining
+        while(k > 0) {
+            st.pop_back();
+            k--;
+        }
 
-        // strip leading zeros
-        int start = st.find_first_not_of('0');
-        st = (start == string::npos) ? "0" : st.substr(start);
+        // Remove leading zeros
+        int i = 0;
 
-        return st.empty() ? "0" : st;
+        while(i < st.size() && st[i] == '0') {
+            i++;
+        }
+
+        st = st.substr(i);
+
+        // Empty result
+        if(st.empty())
+            return "0";
+
+        return st;
     }
 };
