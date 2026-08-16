@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/DishaWalyat/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/DishaWalyat/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/DishaWalyat/Leetcode/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/DishaWalyat/Leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/DishaWalyat/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/DishaWalyat/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/DishaWalyat/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DishaWalyat/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/DishaWalyat/Leetcode/tree/master/0493-reverse-pairs) |
 | [1763-longest-nice-substring](https://github.com/DishaWalyat/Leetcode/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DishaWalyat/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/DishaWalyat/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0493-reverse-pairs](https://github.com/DishaWalyat/Leetcode/tree/master/0493-reverse-pairs) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DishaWalyat/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DishaWalyat/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DishaWalyat/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/DishaWalyat/Leetcode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/DishaWalyat/Leetcode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/DishaWalyat/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Stack
 |  |
@@ -1104,6 +1108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/DishaWalyat/Leetcode/tree/master/0493-reverse-pairs) |
 | [0731-my-calendar-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/DishaWalyat/Leetcode/tree/master/0732-my-calendar-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DishaWalyat/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1164,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/DishaWalyat/Leetcode/tree/master/0493-reverse-pairs) |
 | [0731-my-calendar-ii](https://github.com/DishaWalyat/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/DishaWalyat/Leetcode/tree/master/0732-my-calendar-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DishaWalyat/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1193,4 +1199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/DishaWalyat/Leetcode/tree/master/0322-coin-change) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DishaWalyat/Leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/DishaWalyat/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
