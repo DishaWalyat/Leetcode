@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DishaWalyat/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/DishaWalyat/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DishaWalyat/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2029-stone-game-ix](https://github.com/DishaWalyat/Leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2104-sum-of-subarray-ranges](https://github.com/DishaWalyat/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DishaWalyat/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/DishaWalyat/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1854-maximum-population-year](https://github.com/DishaWalyat/Leetcode/tree/master/1854-maximum-population-year) |
+| [2029-stone-game-ix](https://github.com/DishaWalyat/Leetcode/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/DishaWalyat/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -775,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/DishaWalyat/Leetcode/tree/master/1510-stone-game-iv) |
 | [1952-three-divisors](https://github.com/DishaWalyat/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DishaWalyat/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/DishaWalyat/Leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DishaWalyat/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DishaWalyat/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -804,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/DishaWalyat/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DishaWalyat/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2007-find-original-array-from-doubled-array](https://github.com/DishaWalyat/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2029-stone-game-ix](https://github.com/DishaWalyat/Leetcode/tree/master/2029-stone-game-ix) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/DishaWalyat/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DishaWalyat/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1171,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/DishaWalyat/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/DishaWalyat/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/DishaWalyat/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/DishaWalyat/Leetcode/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1183,15 +1188,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/DishaWalyat/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/DishaWalyat/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/DishaWalyat/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/DishaWalyat/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/DishaWalyat/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/DishaWalyat/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/DishaWalyat/Leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/DishaWalyat/Leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
