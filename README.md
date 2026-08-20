@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DishaWalyat/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DishaWalyat/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DishaWalyat/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/DishaWalyat/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3452-sum-of-good-numbers](https://github.com/DishaWalyat/Leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DishaWalyat/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DishaWalyat/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DishaWalyat/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/DishaWalyat/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
