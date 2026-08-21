@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DishaWalyat/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DishaWalyat/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/DishaWalyat/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DishaWalyat/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3452-sum-of-good-numbers](https://github.com/DishaWalyat/Leetcode/tree/master/3452-sum-of-good-numbers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DishaWalyat/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/DishaWalyat/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/DishaWalyat/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DishaWalyat/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Tree
 |  |
 | ------- |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/DishaWalyat/Leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DishaWalyat/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DishaWalyat/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DishaWalyat/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -903,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1952-three-divisors](https://github.com/DishaWalyat/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DishaWalyat/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DishaWalyat/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DishaWalyat/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String Matching
@@ -920,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/DishaWalyat/Leetcode/tree/master/0832-flipping-an-image) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/DishaWalyat/Leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1763-longest-nice-substring](https://github.com/DishaWalyat/Leetcode/tree/master/1763-longest-nice-substring) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DishaWalyat/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DishaWalyat/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
@@ -1170,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DishaWalyat/Leetcode/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DishaWalyat/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
 |  |
