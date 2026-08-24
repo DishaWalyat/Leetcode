@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/DishaWalyat/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DishaWalyat/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1854-maximum-population-year](https://github.com/DishaWalyat/Leetcode/tree/master/1854-maximum-population-year) |
+| [1872-stone-game-viii](https://github.com/DishaWalyat/Leetcode/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/DishaWalyat/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1920-build-array-from-permutation](https://github.com/DishaWalyat/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/DishaWalyat/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -751,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/DishaWalyat/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/DishaWalyat/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/DishaWalyat/Leetcode/tree/master/1854-maximum-population-year) |
+| [1872-stone-game-viii](https://github.com/DishaWalyat/Leetcode/tree/master/1872-stone-game-viii) |
 | [1943-describe-the-painting](https://github.com/DishaWalyat/Leetcode/tree/master/1943-describe-the-painting) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/DishaWalyat/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2574-left-and-right-sum-differences](https://github.com/DishaWalyat/Leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/DishaWalyat/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/DishaWalyat/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/DishaWalyat/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/DishaWalyat/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/DishaWalyat/Leetcode/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/DishaWalyat/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DishaWalyat/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -866,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/DishaWalyat/Leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DishaWalyat/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/DishaWalyat/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/DishaWalyat/Leetcode/tree/master/1872-stone-game-viii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/DishaWalyat/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/DishaWalyat/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DishaWalyat/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1189,6 +1193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/DishaWalyat/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/DishaWalyat/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/DishaWalyat/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/DishaWalyat/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/DishaWalyat/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/DishaWalyat/Leetcode/tree/master/2029-stone-game-ix) |
 ## Ordered Set
@@ -1203,12 +1208,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/DishaWalyat/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/DishaWalyat/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/DishaWalyat/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/DishaWalyat/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/DishaWalyat/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/DishaWalyat/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/DishaWalyat/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/DishaWalyat/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
