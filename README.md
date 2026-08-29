@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/DishaWalyat/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/DishaWalyat/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DishaWalyat/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DishaWalyat/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DishaWalyat/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DishaWalyat/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2007-find-original-array-from-doubled-array](https://github.com/DishaWalyat/Leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/DishaWalyat/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DishaWalyat/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DishaWalyat/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DishaWalyat/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DishaWalyat/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -1108,6 +1110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1971-find-if-path-exists-in-graph](https://github.com/DishaWalyat/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/DishaWalyat/Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DishaWalyat/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DishaWalyat/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
